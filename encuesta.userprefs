@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="encuesta/gtk-gui/MainWindow.cs">
+    <Files>
+      <File FileName="encuesta/Main.cs" Line="2" Column="11" />
+      <File FileName="encuesta/MainWindow.cs" Line="85" Column="37" />
+      <File FileName="encuesta/gtk-gui/MainWindow.cs" Line="205" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
